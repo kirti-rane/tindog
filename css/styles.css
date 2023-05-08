@@ -1,0 +1,95 @@
+body{
+
+    font-family: 'Montserrat';
+}
+
+#title{
+
+    background-color: #ff4c68;
+    padding: 3% 15%;
+    color: #fff;
+
+}
+.tindog{
+
+    margin-bottom: 4%;
+    font-size: 20px;
+
+}
+
+.title-picture{
+
+    width: 50%;
+    transform:rotate(25deg);
+}
+
+
+
+#features{
+
+    padding: 7% 11%;
+    
+}
+
+.feature-box{
+
+    text-align:center;
+    padding: 4%;
+}
+
+.testimonial-text{
+
+    font-family: 'Montserrat', sans-serif;
+   line-height: 1.5cm;
+    font-size: 40px;
+
+}
+.symbol{
+ 
+    color:#ff4c68;
+}
+
+#testimonials{
+
+    background-color:#f86060;
+    color:#fff;
+    padding: 7% 15%;
+    text-align: center;
+    
+    
+}
+
+.testimonial-image{
+
+    margin-top:20px;
+    width: 20%;
+    border-radius: 100%;
+}
+
+#pricing{
+
+    padding: 7% 15%;
+    text-align:center;
+    color:#fff;
+    font-family:'Montserrat', sans-serif;
+    
+}
+
+.price-pack{
+
+    border: 1px solid;
+    padding: 5%;
+    color:#000;
+    background-color:#fff;
+
+}
+
+#press{
+    
+    background-color:#f86060;
+    text-align:center;
+}
+
+.add{
+    padding: 4%;     
+}
